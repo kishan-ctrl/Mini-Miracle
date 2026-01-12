@@ -141,7 +141,7 @@ const Footer = () => {
 
                 {/* WhatsApp */}
                 <a
-                  href="https://wa.me/94765085575"
+                  href="https://wa.me/94761510070"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="WhatsApp"
@@ -158,24 +158,24 @@ const Footer = () => {
                   </svg>
                 </a>
 
-                {/* Google */}
-                <a
-                  href="https://g.page/r/CQJSwjNZFUMlEBM/review"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  aria-label="Google Business"
-                  className="w-12 h-12 rounded-full bg-white hover:bg-gray-200 text-purple-900
-                             flex items-center justify-center transition-all duration-300
-                             transform hover:-translate-y-1 hover:scale-110"
-                >
-                  <svg
-                    className="w-6 h-6"
-                    fill="currentColor"
-                    viewBox="0 0 24 24"
+                       {/* TikTok */}
+                  <a
+                    href="https://tiktok.com/@minimiracles2018"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label="TikTok"
+                    className="w-12 h-12 rounded-full bg-white hover:bg-gray-200 text-purple-900
+                              flex items-center justify-center transition-all duration-300
+                              transform hover:-translate-y-1 hover:scale-110"
                   >
-                    <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm6.066 9.645c.183 4.04-2.83 8.544-8.164 8.544-1.622 0-3.131-.476-4.402-1.291 1.524.18 3.045-.244 4.252-1.189-1.256-.023-2.317-.854-2.684-1.995.451.086.895.061 1.298-.049-1.381-.278-2.335-1.522-2.304-2.853.388.215.83.344 1.301.359-1.279-.855-1.641-2.544-.889-3.835 1.416 1.738 3.533 2.881 5.92 3.001-.419-1.796 1.081-3.46 2.949-3.461.844 0 1.607.355 2.142.926.654-.128 1.27-.368 1.824-.697-.215.671-.67 1.233-1.263 1.589.581-.07 1.135-.224 1.649-.453-.384.578-.87 1.084-1.433 1.489z" />
-                  </svg>
-                </a>
+                    <svg
+                      className="w-6 h-6"
+                      fill="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-5.2 1.74 2.89 2.89 0 0 1 2.31-4.64c.302-.002.603.058.89.18V9.4a6.33 6.33 0 0 0-.9-.12 4.9 4.9 0 0 0-4.9 4.9 4.9 4.9 0 0 0 4.9 4.9 4.9 4.9 0 0 0 4.9-4.9v-6a7.35 7.35 0 0 0 4.3 1.38v-3.4a4.83 4.83 0 0 1-2.18-.55z"/>
+                    </svg>
+                  </a>
               </div>
 
             </div>

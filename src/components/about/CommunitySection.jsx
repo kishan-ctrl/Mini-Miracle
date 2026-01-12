@@ -52,12 +52,12 @@ const CommunitySection = ({ community }) => {
             ))}
           </ul>
 
-          <button
+          {/* <button
             className="mt-6 inline-flex rounded-xl bg-purple-700 px-5 py-3 text-sm font-semibold text-white
                        hover:bg-purple-800 active:scale-[0.98] transition"
           >
             {community.ctaText}
-          </button>
+          </button> */}
         </div>
 
         <div className="grid grid-cols-1 gap-5 sm:grid-cols-3 lg:grid-cols-1">

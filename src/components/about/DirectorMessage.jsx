@@ -7,22 +7,28 @@ const DirectorMessage = ({ director }) => {
       <div className="grid grid-cols-1 gap-10 lg:grid-cols-2 lg:items-center">
         {/* Image */}
         <motion.div
-          initial={{ opacity: 0, x: -18 }}
-          whileInView={{ opacity: 1, x: 0 }}
-          viewport={{ once: true, amount: 0.25 }}
-          transition={{ duration: 0.6 }}
-          className="relative"
-        >
-          <div className="absolute -inset-4 rounded-3xl bg-purple-200/50 blur-2xl" />
-          <div className="relative overflow-hidden rounded-3xl bg-white ring-1 ring-gray-100 shadow-sm">
-            <img
-              src={director.image}
-              alt={director.name}
-              className="h-[320px] w-full object-cover"
-              loading="lazy"
-            />
-          </div>
-        </motion.div>
+  initial={{ opacity: 0, y: 24 }}
+  whileInView={{ opacity: 1, y: 0 }}
+  viewport={{ once: true, amount: 0.3 }}
+  transition={{ duration: 0.7, ease: "easeOut" }}
+  className="relative mx-auto w-full max-w-[420px] sm:max-w-[480px] lg:max-w-[520px]"
+>
+  {/* Soft background glow */}
+  <div className="absolute inset-0 -z-10 rounded-3xl bg-purple-300/40 blur-3xl" />
+
+  {/* Image Card */}
+  <div className="relative overflow-hidden rounded-3xl bg-white shadow-xl ring-1 ring-gray-200">
+    <div className="aspect-square w-full">
+      <img
+        src={director.image}
+        alt={director.name}
+        loading="lazy"
+        className="h-full w-full object-cover object-top"
+      />
+    </div>
+  </div>
+</motion.div>
+
 
         {/* Text */}
         <motion.div
