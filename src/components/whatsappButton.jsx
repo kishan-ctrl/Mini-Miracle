@@ -5,7 +5,7 @@ const WhatsAppButton = () => {
   const [isFooterVisible, setIsFooterVisible] = useState(false);
   const observerRef = useRef(null);
 
-  const whatsappLink = `https://wa.me/message/APC6K67QK43IF1`;
+  const whatsappLink = `https://wa.me/94761510070`;
 
   useEffect(() => {
     // Run only on client
