@@ -77,7 +77,7 @@ const Footer = () => {
                 <span className="text-sm md:text-base">
                   Number: 20 Pansala Road
                   <br />
-                  Halton
+                  Hatton
                 </span>
               </li>
               <li className="flex items-center gap-3">
@@ -87,8 +87,7 @@ const Footer = () => {
               <li className="flex items-center gap-3">
                 <Mail className="text-pink-400 flex-shrink-0" size={20} />
                 <span className="text-sm md:text-base">
-              
-nishaanthenadarajah@gmail.com
+                  nishaanthenadarajah@gmail.com
                 </span>
               </li>
             </ul>
