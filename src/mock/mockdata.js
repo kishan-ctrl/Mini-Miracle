@@ -248,7 +248,7 @@ export const socialLinks = [
 ];
 
 import About from "../../public/images/About.jpg"
-import principal from "../../public/images/principal.jpg"
+import principal from "../../public/images/staff/principal.png" 
 import schoolLife1 from "../../public/images/schoolLife1.jpg"
 import schoolLife2 from "../../public/images/schoolLife2.jpg"
 import schoolLife3 from "../../public/images/schoolLife3.jpg"
@@ -275,10 +275,10 @@ export const aboutPage = {
 
   director: {
     title: "Principal's Message",
-    name: "Mrs. Anusha Perera",
-    role: "Principal / Director",
+    name: "Nishaanthe Nadarajah",
+    role: "Principal / Director/ head teacher",
     message:
-      "Welcome to our school family. We believe every child is unique and deserves a warm, supportive place to learn and grow. Our teachers focus on confidence, creativity, and character — not only grades. Thank you for trusting us with your child's journey.",
+      "Every child deserves a safe, respectful, and happy childhood.Learning begins with love, care, and curiosity.We grow together—children, parents, and educators.",
     image: principal,
   },
 
