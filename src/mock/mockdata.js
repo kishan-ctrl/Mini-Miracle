@@ -346,7 +346,7 @@ export const aboutPage = {
 
   contact: {
     title: "Contact Information",
-    phone: "144 0055 9175",
+    phone: "+94 (76) 15 10 070 ",
     email: "nishaanthenadarajah@gmail.com",
     addressLine1: "No: 20 Pansala Road. Hatton, Sri Lanka",
    
@@ -375,7 +375,7 @@ export const staffPage = {
   staff: [
     {
       id: 1,
-      name: "Miss.Nishaanthe Nadarajah ",
+      name: "Mrs.Nishaanthe Nadarajah ",
       role: "Founder and head teacher",
       category: "Teachers",
       image: "/images/staff/principal.png", // Direct path from public folder
@@ -386,7 +386,7 @@ export const staffPage = {
     },
     {
       id: 2,
-      name: "Mr. Kevin Silva",
+      name: "Mrs.Nishanthakumary.k",
       role: " Assistant Teacher",
       category: "Teachers",
       image: "/images/staff/vice-principal.png", // Direct path from public folder
@@ -397,7 +397,7 @@ export const staffPage = {
     },
     {
       id: 3,
-      name: "Miss.P.Rubika",
+      name: "Mrs.P.Rubika",
       role: "Assistant Teacher",
       category: "Teachers",
       image: "/images/staff/teacher1.png", // Direct path from public folder
