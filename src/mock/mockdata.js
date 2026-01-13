@@ -98,7 +98,7 @@ export const pageContent = {
 };
 
 export const galleryContent = {
-  categories: ["Baby/Bay", "Activities", "Painting", "Baby sitting"],
+  categories: ["Baby/Bay", "Activities", "Painting", "Baby sitting","Dancing"],
 
   photos: {
     "Baby/Bay": [
@@ -125,6 +125,12 @@ export const galleryContent = {
       { id: 15, alt: "Safe play supervision", aspect: "landscape", imagePath: "/images/gallery/babysitting-2.jpeg" },
       { id: 16, alt: "Care time activity", aspect: "square", imagePath: "/images/gallery/babysitting-3.jpeg" },
       { id: 17, alt: "Kids resting in cozy corner", aspect: "landscape", imagePath: "/images/gallery/babysitting-4.jpeg" },
+    ],
+    "Dancing": [
+      { id: 14, alt: "Teacher guiding toddler", aspect: "portrait", imagePath: "/images/gallery/Dancing1.jpeg" },
+      { id: 15, alt: "Safe play supervision", aspect: "landscape", imagePath: "/images/gallery/Dancing2.jpeg" },
+      { id: 16, alt: "Care time activity", aspect: "square", imagePath: "/images/gallery/Dancing3.jpeg" },
+      { id: 17, alt: "Kids resting in cozy corner", aspect: "landscape", imagePath: "/images/gallery/Dancing4.jpeg" },
     ],
   },
 
