@@ -138,7 +138,7 @@ export const galleryContent = {
     {
       id: 1,
       date: "SATURDAY",
-      text: "The academy helped my child become more confident and active. The teachers are kind and supportive.",
+      text: "Blessings & Wishes from Parents Mini Meracal Preschool & Best Child Development Centre We are truly grateful to Mini Meracal Preschool for providing a safe, loving, and joyful place for our children to learn and grow.May God bless the teachers and staff who care for our children with patience, kindness, and dedication every day.Thank you for building a strong foundation for our children’s future through love, guidance, and quality early education.We wish Mini Meracal Preschool continued success in shaping confident, happy, and curious little learners. ✨ “As parents, we feel proud and at peace knowing our children are nurtured, respected, and encouraged here.",
       author: "John Corda",
       role: "Parent",
     },
@@ -165,25 +165,25 @@ export const galleryContent = {
   testimonials: [
     {
       id: 1,
-      date: "SATURDAY",
-      text: "The academy helped my child become more confident and active. The teachers are kind and supportive.",
-      author: "John Corda",
+      text: "Blessings & Wishes from Parents Mini Meracal Preschool & Best Child Development Centre We are truly grateful to Mini Meracal Preschool for providing a safe, loving, and joyful place for our children to learn and grow.May God bless the teachers and staff who care for our children with patience, kindness, and dedication every day.Thank you for building a strong foundation for our children’s future through love, guidance, and quality early education.We wish Mini Meracal Preschool continued success in shaping confident, happy, and curious little learners. ✨ “As parents, we feel proud and at peace knowing our children are nurtured, respected, and encouraged here.",
+      author: "Mr&Mrs.Nishanth",
       role: "Parent",
     },
     {
       id: 2,
-      date: "SATURDAY",
-      text: "Very clean environment and well-organized activities. My child enjoys going every day.",
-      author: "Nimali Perera",
-      role: "Parent",
+      text: "As the guardian of N.J. Aadvik Jeshurun, I am truly grateful to Mini Miracles for the exceptional care and guidance they provide. This preschool is genuinely child-centred, always focusing on the individual skills, strengths, and needs of each child. I have seen Aadvik grow confidently in his learning, social skills, and healthy habits. The teachers also emphasise good nutrition and encourage healthy food practices, which I deeply appreciate.Mini Miracles creates a vibrant learning environment by conducting exhibitions, a variety of cultural programmes, and even religious activities that help children understand and respect diversity. One of the things I admire most is that they celebrate every child’s birthday with love and without any partiality, making each child feel valued and special.I am truly thankful for the dedication and kindness shown by the entire team at Mini Miracles. It is reassuring to know that my child is in a safe, nurturing, and inspiring place every single day..",
+      author: "N.J.Priyanga Angel.",
+      role: "Diploma in English (Peradeniya NCoE) B.Ed in English.Government teacher.(Guardian of N.J. Aadvik Jeshurun)",
     },
     {
-      id: 3,
-      date: "SATURDAY",
-      text: "Great balance of learning and fun. I love the progress updates and friendly staff.",
-      author: "Arun Kumar",
-      role: "Parent",
+      id:3,
+      text:"🌼 பெற்றோரின் ஆசீர்வாதமும் வாழ்த்துகளும் Mini Meracal Preschool & Best Child Development Centre💖 “எங்கள் குழந்தைகளுக்கு அன்பும் பாதுகாப்பும் நிறைந்த சிறந்த கல்வி சூழலை வழங்கும் Mini Meracal Preschool-க்கு எங்கள் மனமார்ந்த நன்றி.”🙏 “எங்கள் குழந்தைகளை பொறுமையுடனும் அன்புடனும் கவனிக்கும் ஆசிரியர்கள் மற்றும் பணியாளர்கள் அனைவரும் இறைவனால் ஆசீர்வதிக்கப்பட வாழ்த்துகிறோம்.”🌱 “எங்கள் குழந்தைகளின் எதிர்காலத்திற்கு வலுவான அடித்தளத்தை அமைத்து தரும் Mini Meracal Preschool-க்கு எங்கள் வாழ்த்துகளும் நன்றியும்.”🌈 “மகிழ்ச்சியும் தன்னம்பிக்கையும் கொண்ட சிறந்த குழந்தைகளை உருவாக்கும் இந்த பள்ளி தொடர்ந்து வெற்றியடைய வாழ்த்துகிறோம் ”✨ “பெற்றோராகிய எங்களுக்கு மனநிம்மதியையும் பெருமையையும் அளிக்கும் இந்த பள்ளிக்கு எங்கள் இதயப்பூர்வமான வாழ்த்துகள்.”",
+      
     },
+    {
+      id:4,
+      text:"Mini Meracal Preschool & Best Child Development Centre தொடர்ந்து வளர்ச்சி, ஞானம், மற்றும் அன்புடன் பல தலைமுறைகளுக்கு வழிகாட்ட இறைவன் அருள்புரிவாராக."
+    }
   ],
 
   statistics: {
